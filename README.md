@@ -5,5 +5,5 @@
 - docker-compose
 
 Запуск:
-- make init
-- make up
+1. make init
+2. make up
